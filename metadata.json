@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest AI",
+  "description": "AI-Powered Coding Practice Platform with Progress Tracking and LinkedIn Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
